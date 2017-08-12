@@ -1,19 +1,21 @@
-This document contains following:
+# This document contains following:
+
 	1. Project-Description.
 	2. Requirements.
 	3. How to execute the project.
 
 
-**********  Project-Description  **********
+# Project-Description
+
 This project involve developing a database schema to store the game matches between players. Then query this data and determine the winners of various games.
 
 
-**********  Requirements  **********
+# Requirements
 To run this project you should have the following things on your computer.
 	1. python.
 	2. Vagrant.
 
-**********  How to execute the project  **********
+# How to execute the project
 	1. copy the project folder "tournament" in vagrant folder
 	2. open terminal in the vagrant folder.
 	3. Type vagrant up
@@ -25,7 +27,6 @@ To run this project you should have the following things on your computer.
 	9. type python tournament_test.py
 	10. that's it!!!!
 
-WORK DONE!!
+### WORK DONE!!
 
-
-**********  Thank you  **********
+# Thank you

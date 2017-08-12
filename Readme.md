@@ -27,7 +27,6 @@ To run this project you should have the following things on your computer.
 	9. type python tournament_test.py
 	10. that's it!!!!
 
-WORK DONE!!
-
+#### WORK DONE!!
 
 # Thank you
